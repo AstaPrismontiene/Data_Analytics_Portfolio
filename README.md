@@ -10,3 +10,4 @@ To create an interactive dashboard for Olist company's Payments & Monetization d
 Data was extracted and transformed using SQL on BigQuery, dashboard made with Looker Studio.
 
 [Interactive Monetization Dashboard](https://lookerstudio.google.com/reporting/9dc19e0d-139c-4bc2-972b-08b3a961c8f7/page/tEnnC/edit)
+![]
