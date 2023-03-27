@@ -18,7 +18,7 @@ ________________________________________________________________________________
 
 ## Sales Department Dashboard
 ### Task Description:
-To create an interactive dashboard for "Adventure Works" manufacturing company that produces and distributes bicycles and accompanying goods to commercial markets in North America, Europe, and Australia. The company employs 290 workers throughout its market base. 
+To create an interactive dashboard for "Adventure Works" manufacturing company that produces and distributes bicycles and accompanying goods to commercial markets in North America, Europe, and Australia. The company employs 290 workers throughout its market base. Schema for this database [here].
 
 # [Interactive Adventure Works Sales Dashboard](https://lookerstudio.google.com/reporting/e123f61f-d41a-455e-aa56-885ac9014277/page/UiZID)
 
