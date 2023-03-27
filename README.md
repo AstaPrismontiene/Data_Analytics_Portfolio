@@ -23,3 +23,5 @@ To create an interactive dashboard for "Adventure Works" manufacturing company t
 # [Interactive Adventure Works Sales Dashboard](https://lookerstudio.google.com/reporting/e123f61f-d41a-455e-aa56-885ac9014277/page/UiZID)
 
 ![](https://github.com/AstaPrismontiene/Data_Analytics_Portfolio/blob/main/AdventureWorks_sales_dashboard1.jpg)
+![](https://github.com/AstaPrismontiene/Data_Analytics_Portfolio/blob/main/AdventureWorks_sales_dashboard2.jpg)
+![](https://github.com/AstaPrismontiene/Data_Analytics_Portfolio/blob/main/AdventureWorks_sales_dashboard3.jpg)
