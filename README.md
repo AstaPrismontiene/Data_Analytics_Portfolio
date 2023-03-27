@@ -12,3 +12,9 @@ Data was extracted and transformed using SQL on BigQuery, dashboard made with Lo
 # [Interactive Monetization Dashboard](https://lookerstudio.google.com/reporting/9dc19e0d-139c-4bc2-972b-08b3a961c8f7/page/tEnnC/edit)
 
 ![](https://github.com/AstaPrismontiene/Data_Analytics_Portfolio/blob/main/monetization_dashboard.jpg)
+
+
+___________________________________________________________________________________
+
+## Sales Department Dashboard
+### Task Description:
